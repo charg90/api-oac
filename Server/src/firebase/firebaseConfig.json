@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "api-oscar-cycling",
+  "private_key_id": "20dfe60192865ebf12f33f9017c331eb7c62588e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCzIYGSp+vPe9vY\nr9uMxx8if8uxXtp3nD77ApPX+5duq9ioP6crWVFg2ZB3SKG1Gg5vIw7X1fTlewHc\nSFO+Xe1Nfg/oibAqheQkGG9qwBDN7YbLQF+FB4VKD0JoQUY69FvFfJGF1YxARe2U\npfctUp2A2LUp1j6fkcTZkLJnWZ64UPHwUPhEteed6wACf+1UJZBK56/bkN2MFiwo\n6gPil5KTu6KJAVvt7F/jBZ9Tk8UjTbnYieopYQvVTeJLqIvIfLX8ziQlgwW6vSIC\n36FOpyOEyp5A/AJ6REzlN1AD9HaPzYbMk4x4MdZVd4goGSiKlZptaKUBhVvNpt8x\nBnWoKrj/AgMBAAECggEAIk6G+db2NykSDFh11GroYBuYn9I6RhEjEMDIHuPc90Gr\nP2HdetRi3Qkd/XJoIf6pCAjvVU/xVKfvzcf+XeWwRpifpFoGZsZ40J7ra8b4EPBu\nUev0v04W7X2pqrzhnfXhw5tdZYPmFgMugrsccU4ywxP98lLJcJci28Y2HMwRtVvc\n3az2+WqwgMXNFeRWlR96MhGw03/quiBLr17VdDcwKDqd2QLv8Sp0NcTH7rA5/ESi\nFAOSQM33EDWJx/s8DL6O7nfJg9DzexUaLJAJTXhXLdy0GAsazVf4WPiU5Q9Y7nz/\n2hVBLncqVw8qZnl0yEmXz/LLme45kpFGvRdXAjU3GQKBgQDtNFskWh/6FeussbVA\nQh19/AGtKDAlNRYY0WT3GvtoUorL+JdlvRYC5tzGOgdABEVMhha/NM4ryU1tC2e5\nNVjdNTn+d5I0e85n+joVujrHBVa2B9u/Otz/l1bqxBFScq1Q47d8JgJC1XJl+OwX\n1QDUHrbu+PG3D+BS31z6S8K3uQKBgQDBUyN9xsG9ctH1H4GjfDD6tYiHG4ElIY1c\nvlsWu2E2jhvMUp5W6AafY8Vxtpg5R2eBiA7AxCtt9V7R9eEFpY4tdo+7V8yMGlHw\nCffV5HGmqeYvxwGsAJ6CjJCjynkSbw7OTn2VkDvG5LHGqiqp24+cx8XM0kaoq/kV\nRTql7SbidwKBgQCdPbu9WVEhQy67iAIS2sEaJtglpSJlR8+iHAzGEcje2vjPRbd2\n5eWVftyTOxxbP3mAxNKHZcXWGNeOlaTojYie+w26tiDhUcD+BE5E4PLdw5g7ivIM\nzkR52iTv85FYClUB7jJPxhJxo3T2TBCVq8mk08eImtYA+DFIPnEwKtClYQKBgG1y\n0yIPF3pY+fLrnmpfEh+uDJhpAulxoGWEQ2+QMA5B0A0SLSCIhc9RHeQt+upauYfE\n7o1FwkyjYMY/jOC0hNTKTb9DisM6126tRglrJsizYWVlJlYpl5PTXsPMClVcWKaG\nG2VEXgNRUDBoAHVfn2OkWiCGX4h4rDDVm8l6hMwrAoGAYdXKVR3P5buJPbF4Cjjv\n8f+evsBMogJbvsT2iqW9n5s3OjmFFOJV0nRlEg1lnO8uI2gFbAjPE1VKfg/f3Fvz\neTNcFAU21fYVzWcQOixpfUdKgOwgpCaYxuE2eD1+93L7HmjRB8y2Fj8UKEyXZDpH\nVJacxQR9lzA1BJKzZZ5oxgQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-vasom@api-oscar-cycling.iam.gserviceaccount.com",
+  "client_id": "104664458334363931081",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-vasom%40api-oscar-cycling.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
